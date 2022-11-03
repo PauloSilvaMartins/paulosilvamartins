@@ -12,7 +12,7 @@ Hi, I'm Paulo Silva Martins👋
 </div>  
 <div style="display: inline_block"><br> 
 <img align="center" alt="Paulo-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" />
-<img align="center" alt="Paulo-Unity" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg" />
+<img align="center" alt="Paulo-Unity" height="30" width="70" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
 </div>
 
 
